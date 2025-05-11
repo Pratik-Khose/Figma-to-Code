@@ -30,7 +30,7 @@ The page layout adapts to:
 
 2. Navigate into the project folder:
    ```bash
-   cd Project 04
+   cd Project 03
    ```
 
 
