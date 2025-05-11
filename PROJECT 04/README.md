@@ -31,7 +31,7 @@ The page layout adapts to:
 
 2. Navigate into the project folder:
    ```bash
-   cd your-repo-name
+   cd Project 04
    ```
 
 3. Install the dependencies:
