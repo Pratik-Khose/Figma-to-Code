@@ -10,6 +10,13 @@ This landing page represents a modern, responsive layout suitable for a digital 
 
 ## 📱 Responsive Design
 
+![Screenshot 2025-05-11 202254](https://github.com/user-attachments/assets/2bfd16ee-ca8e-4b60-a5fb-bde4faa570be)
+![Screenshot 2025-05-11 202240](https://github.com/user-attachments/assets/a32e1206-e2fe-44bb-9f28-f834fb7212a3)
+![Screenshot 2025-05-11 202220](https://github.com/user-attachments/assets/b8c71339-7f05-4dc0-8ff0-c19df9c0960c)
+
+
+## 📱 Responsive Design
+
 The page layout adapts to:
 - ✅ Large Desktop Screens
 - ✅ Medium Tablets
