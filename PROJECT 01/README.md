@@ -10,6 +10,11 @@ This landing page represents a modern, responsive layout suitable for a digital 
 
 ## 📱 Images of the Design
 
+![Screenshot 2025-05-11 192154](https://github.com/user-attachments/assets/1a8b9dfb-07e7-4a3a-9c6e-2d4a04a85885)
+![Screenshot 2025-05-11 192142](https://github.com/user-attachments/assets/b9d7d80a-80df-464d-996a-35898f538426)
+![Screenshot 2025-05-11 192123](https://github.com/user-attachments/assets/3da8454b-41b6-45f3-a571-ec3d9fea7dd2)
+![Screenshot 2025-05-11 192108](https://github.com/user-attachments/assets/69d3cfa2-183d-4d93-bbd2-46716a219cfa)
+![Screenshot 2025-05-11 192051](https://github.com/user-attachments/assets/51c2e292-aba8-4e08-adca-0f4ac0094357)
 
 
 
