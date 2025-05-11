@@ -8,6 +8,12 @@ This project is a responsive website landing page built by converting a Figma de
 
 This landing page represents a modern, responsive layout suitable for a digital agency or business homepage. It has been carefully coded to match the visual design and layout of the Figma file, ensuring full responsiveness across desktop, tablet, and mobile devices.
 
+## 📱 Image of  Design
+
+![Screenshot 2025-05-11 195913](https://github.com/user-attachments/assets/e4796885-3cf7-4804-8bdb-8856850fb4f5)
+![Screenshot 2025-05-11 195124](https://github.com/user-attachments/assets/381b83e6-e1d0-4031-8183-7bad445742ad)
+
+
 ## 📱 Responsive Design
 
 The page layout adapts to:
