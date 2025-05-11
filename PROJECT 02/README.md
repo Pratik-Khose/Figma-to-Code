@@ -27,12 +27,12 @@ The page layout adapts to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Pratik-Khose/Figma-to-Code.git
    ```
 
 2. Navigate into the project folder:
    ```bash
-   cd your-repo-name
+   cd Project 02
    ```
 
 3. Install the dependencies:
